@@ -10,7 +10,7 @@ html, body{
     background-color: black;
 }
 body{
-    background: url('/imagens/papel\ de\ parede.jpg')no-repeat top center/ cover fixed ;
+    background: url('/imagens/fundo-madeira.jpg') no-repeat top center/ cover fixed ;
 }
 main{
     height: 98vh;
